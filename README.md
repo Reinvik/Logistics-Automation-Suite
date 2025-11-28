@@ -6,10 +6,6 @@
 
 > **Centro de Comando Unificado para la automatización de procesos logísticos en SAP.**
 
-![Screenshot de la Interfaz](Logistics-Automation-Suite
-/panel_preview.png)
-
-
 ---
 
 ## 📋 Descripción del Proyecto
